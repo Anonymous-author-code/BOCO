@@ -1,6 +1,6 @@
 # BOCO
 
-This is the implementation of our NeurIPS 2021 paper "Bilevel Optimization for Learning Transportation Network Combinatorial Optimization".
+This is the implementation of paper "Bilevel Optimization for Learning Transportation Network Combinatorial Optimization".
 
 
 
